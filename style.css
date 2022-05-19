@@ -92,9 +92,9 @@ body {
   height: 300px;
   border: 1px solid black;
 }
-.hidden {
+/* .hiden {
   display: block;
-}
+} */
 .edit,
 .remove {
   margin-top: 1rem;
